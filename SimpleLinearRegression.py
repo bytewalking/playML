@@ -3,7 +3,6 @@ from .metrics import r2_score
 
 
 class SimpleLinearRegression:
-
     def __init__(self):
         """初始化Simple Linear Regression模型"""
         self.a_ = None
